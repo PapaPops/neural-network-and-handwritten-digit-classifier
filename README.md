@@ -14,3 +14,6 @@ The binary only works on linux, in order to test for other systems this needs to
 
 # xor solved
 ![xor solved](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/xor_solved.png)
+
+# neural network initialization and training
+![neural network picture](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/neural_network_iandt.png)
