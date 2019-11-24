@@ -11,3 +11,4 @@ testing the algorithm.
 The binary only works on linux, in order to test for other systems this needs to be recompiled.
 
 # xor solved
+![xor solved](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/xor_solved.png)
