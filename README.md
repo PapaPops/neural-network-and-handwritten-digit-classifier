@@ -7,6 +7,8 @@ The binary for the compiled library can be found in bin alongside another binary
 This is made with the purpose of solving xor, for the purpose of 
 testing the algorithm.
 
+The scope of this project is purely educational and the project does not serve as an example of a proper machine learning or matrix manipulation library.
+
 # notes
 The binary only works on linux, in order to test for other systems this needs to be recompiled.
 
