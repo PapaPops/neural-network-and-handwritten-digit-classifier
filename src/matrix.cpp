@@ -47,7 +47,7 @@ Matrix::Matrix(int rows, int cols , float element = 0)
     }
 }
 
-Matrix::Matrix(std::vector<float>& input_vector)
+Matrix::Matrix(const std::vector<float>& input_vector)
 {
     this->m_rows = input_vector.size();
     this->m_cols = 1;
