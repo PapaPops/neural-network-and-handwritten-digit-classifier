@@ -11,7 +11,7 @@ class Matrix
     public:
         Matrix(const Matrix&);
         Matrix(int,int,float);
-        Matrix(std::vector<float>&);
+        Matrix(const std::vector<float>&);
         
 
 
