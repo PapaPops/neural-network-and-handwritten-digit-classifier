@@ -9,6 +9,8 @@ testing the algorithm.
 
 The scope of this project is purely educational and the project does not serve as an example of a proper machine learning or matrix manipulation library.
 
+Down bellow you can see the xor problem being solved and also the model being used for classification of handwritten digits (trained on the mnist dataset, with a model the shape of {784,16,12,10}).
+
 # notes
 The binary only works on linux, in order to test for other systems this needs to be recompiled.
 
@@ -17,3 +19,7 @@ The binary only works on linux, in order to test for other systems this needs to
 
 # neural network initialization and training
 ![neural network picture](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/neural_network_iandt.png)
+
+# digit classification examples
+![digit 1]()
+![digit 2]()
