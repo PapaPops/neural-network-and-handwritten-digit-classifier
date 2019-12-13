@@ -22,6 +22,11 @@ Delete mnist_main.cpp and xor_main.cpp and make your own main file if you want t
 
 The data of trained the mnist network (weights,biases,learning rate and the structure) can also be found above and can be used at will in the mnist_neural_network_final.nn file. They can be imported in a neuralNetwork object with the method import_network(std::string filepath).
 
+# binary
+
+(WIP) A folder, with a binary, a .nn file and an improved version of the picture-getter.py file will be available to be run locally on the machine with the purpose of classifying 28x28 pixel images which contain handwritten digits.
+
+This is useful if you are not interested in the source code and you just want to classify numbers.
 
 # xor solved
 ![xor solved](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/xor_solved.png)
