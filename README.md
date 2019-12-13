@@ -11,7 +11,7 @@ The scope of this project is purely educational and the project does not serve a
 
 Down below you can see the xor problem being solved and also the model being used for classification of handwritten digits (trained on the mnist dataset, with a model the shape of {784,16,12,10}).
 
-The data of mnist the network can also be found above and can be used at will in the mnist_neural_network_final.nn file.
+The data of the mnist network can also be found above and can be used at will in the mnist_neural_network_final.nn file.
 
 The picture-getter.py file was used in order to get data in regards to the images used for the training.
 
