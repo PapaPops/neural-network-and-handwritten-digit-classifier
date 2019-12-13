@@ -11,6 +11,8 @@ The scope of this project is purely educational and the project does not serve a
 
 Down bellow you can see the xor problem being solved and also the model being used for classification of handwritten digits (trained on the mnist dataset, with a model the shape of {784,16,12,10}).
 
+The data of mnist the network can also be found above and can be used at will in the mnist_neural_network_final.nn file.
+
 # notes
 The binary only works on linux, in order to test for other systems this needs to be recompiled.
 
