@@ -15,6 +15,8 @@ The data of mnist the network can also be found above and can be used at will in
 
 The picture-getter.py file was used in order to get data in regards to the images used for the training.
 
+The mnist_main.cpp file was used in order to train the mnist classification model.
+
 # notes
 The binary only works on linux, in order to test for other systems this needs to be recompiled.
 
