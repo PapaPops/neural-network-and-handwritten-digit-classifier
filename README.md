@@ -18,7 +18,7 @@ The binary only works on linux, in order to test for other systems this needs to
 
 In order to make picture-getter.py work you need to download PIL. Use the command pip3 install pillow.
 
-Delete mnist_main.cpp and xor_main.cpp and make your own main file if you want to use the library.
+Delete mnist_main.cpp and xor_main.cpp and make your own main file if you only want to use the library.
 
 The data of trained the mnist network (weights,biases,learning rate and the structure) can also be found above and can be used at will in the mnist_neural_network_final.nn file. They can be imported in a neuralNetwork object with the method import_network(std::string filepath).
 
