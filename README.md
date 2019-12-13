@@ -13,8 +13,12 @@ Down bellow you can see the xor problem being solved and also the model being us
 
 The data of mnist the network can also be found above and can be used at will in the mnist_neural_network_final.nn file.
 
+The picture-getter.py file was used in order to get data in regards to the images used for the training.
+
 # notes
 The binary only works on linux, in order to test for other systems this needs to be recompiled.
+
+In order to make picture-getter.py work you need to download PIL. Use the command pip3 install pillow.
 
 # xor solved
 ![xor solved](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/xor_solved.png)
