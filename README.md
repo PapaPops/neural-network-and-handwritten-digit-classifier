@@ -27,11 +27,11 @@ The data of trained the mnist network (weights,biases,learning rate and the stru
 This is useful if you are not interested in the source code and you just want to classify numbers or test the accuracy of the neural network model. NOTE, this model will be trained more than mnist_neural_network_final.nn and it may use a different structure (more hidden layers). This is in the hopes of achieving better accuracy.
 
 # xor solved
-![xor solved](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/xor_solved.png)
+![xor solved](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/pictures/xor_solved.png)
 
 # neural network initialization and training
-![neural network picture](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/neural_network_iandt.png)
+![neural network picture](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/pictures/neural_network_iandt.png)
 
 # digit classification examples
-![digit 1](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/mnist_classification_problem0.png)
-![digit 2](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/mnist_classifier_2.jpg)
+![digit 1](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/pictures/mnist_classifier_2.jpg)
+![digit 2](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/pictures/mnist_classification_problem0.png)
