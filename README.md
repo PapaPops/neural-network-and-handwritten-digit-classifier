@@ -20,7 +20,7 @@ The binary only works on linux, in order to test for other systems this needs to
 
 In order to make picture-getter.py work you need to download PIL. Use the command pip3 install pillow.
 
-Delete mnist_main.cpp and xor_main.cpp and make your own main file if you want to use the library
+Delete mnist_main.cpp and xor_main.cpp and make your own main file if you want to use the library.
 
 # xor solved
 ![xor solved](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/xor_solved.png)
