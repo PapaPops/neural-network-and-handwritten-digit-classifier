@@ -4,6 +4,10 @@
 #define FILE "PICTURE_CONVERTER_FILE.txt"
 #define COUNT 275000
 
+// THIS IS THE FILE I USED IN ORDER TO TRAIN MY NEURAL NETWORK ON THE MNIST DATA_SET, THIS VERSION OF PICTURE-GETTER.py is and the dataset in jpeg form is available only on my computer.
+//PLEASE DO NOT RUN.
+//THIS IS ONLY AN EXAMPLE
+
 Matrix getAnswer(int n)
 {
     std::vector<float> vec;
