@@ -11,16 +11,17 @@ The scope of this project is purely educational and the project does not serve a
 
 Down below you can see the xor problem being solved and also the model being used for classification of handwritten digits (trained on the mnist dataset, with a model the shape of {784,16,12,10}).
 
-The data of trained the mnist network (weights,biases,learning rate and the structure) can also be found above and can be used at will in the mnist_neural_network_final.nn file. They can be imported in a neuralNetwork object with the method import_network(std::string filepath).
-
+# notes
 The picture-getter.py file was used in order to get data in regards to the images used for the training.
 
-# notes
 The binary only works on linux, in order to test for other systems this needs to be recompiled.
 
 In order to make picture-getter.py work you need to download PIL. Use the command pip3 install pillow.
 
 Delete mnist_main.cpp and xor_main.cpp and make your own main file if you want to use the library.
+
+The data of trained the mnist network (weights,biases,learning rate and the structure) can also be found above and can be used at will in the mnist_neural_network_final.nn file. They can be imported in a neuralNetwork object with the method import_network(std::string filepath).
+
 
 # xor solved
 ![xor solved](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/xor_solved.png)
