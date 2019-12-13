@@ -9,7 +9,7 @@ testing the algorithm.
 
 The scope of this project is purely educational and the project does not serve as an example of a proper machine learning or matrix manipulation library.
 
-Down bellow you can see the xor problem being solved and also the model being used for classification of handwritten digits (trained on the mnist dataset, with a model the shape of {784,16,12,10}).
+Down below you can see the xor problem being solved and also the model being used for classification of handwritten digits (trained on the mnist dataset, with a model the shape of {784,16,12,10}).
 
 The data of mnist the network can also be found above and can be used at will in the mnist_neural_network_final.nn file.
 
