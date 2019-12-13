@@ -24,4 +24,4 @@ The binary only works on linux, in order to test for other systems this needs to
 
 # digit classification examples
 ![digit 1](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/mnist_classification_problem0.png)
-![digit 2]()
+![digit 2](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/mnist_classifier_2.jpg)
