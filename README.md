@@ -1,5 +1,5 @@
 # neural-network-and-handwritten-digit-classifier
-This is a neural network library built upon a handmade matrix library.
+This is a feed-forward neural network library built upon a handmade matrix library.
 
 This is made with the purpose of solving the classic mnist handwritten digit image classification problem dubbed the "hello world" of machine learning.
 
@@ -26,7 +26,7 @@ The data of trained the mnist network (weights,biases,learning rate and the stru
 
 (WIP) A folder, with a binary, a .nn file and an improved version of the picture-getter.py file will be available to be run locally on the machine with the purpose of classifying 28x28 pixel images which contain handwritten digits.
 
-This is useful if you are not interested in the source code and you just want to classify numbers or test the accuracy of the neural network model.
+This is useful if you are not interested in the source code and you just want to classify numbers or test the accuracy of the neural network model. NOTE, this model was trained more and it may use a different structure (more hidden layers).
 
 # xor solved
 ![xor solved](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/xor_solved.png)
