@@ -30,3 +30,4 @@ In order for picture-getter.py to be ran, PIL must be installed. run the command
 # digit classification examples
 ![digit 1](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/pictures/mnist_classifier_2.jpg)
 ![digit 2](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/pictures/mnist_classification_problem0.png)
+![digit 3](https://github.com/david-cons/neural-network-and-handwritten-digit-classifier/blob/master/pictures/image.png)
